@@ -1,4 +1,6 @@
                                                       👋 Hi, I’m Acinta Sofiya
+                                                      ![image](https://github.com/user-attachments/assets/94a1dee1-306a-4db7-b3d8-330579a1491e)
+
 
 - 👀 I’m passionate about data science, machine learning, and software development.
 - 🌱 I’m currently learning advanced machine learning techniques, deep learning, and project deployment.
