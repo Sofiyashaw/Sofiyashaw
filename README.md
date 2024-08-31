@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Sofiyashaw/Repo_Images/blob/main/robot.jpg" alt="Logo" width="220"/>
+    <img src="https://github.com/Sofiyashaw/Sofiyashaw/blob/main/coding.png" alt="Logo" width="500" height="350"/>
 </p> 
 <p align="center">
  <b>Hi, I’m Acinta Sofiya</b>
