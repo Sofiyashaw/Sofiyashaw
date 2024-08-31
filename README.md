@@ -1,4 +1,4 @@
-                                                      👋 Hi, I’m Sofiya
+                                                      👋 Hi, I’m Acinta Sofiya
 
 - 👀 I’m passionate about data science, machine learning, and software development.
 - 🌱 I’m currently learning advanced machine learning techniques, deep learning, and project deployment.
